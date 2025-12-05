@@ -430,7 +430,7 @@
     "transmissao": "4 marchas",
     "combustivel": "Gasolina",
     "categoria": "Utilitária",
-    "image": "",
+    "image": "https://images.jdmagicbox.com/quickquotes/images_main/honda-cd-110-dream-dx-self-drum-carrier-athletic-blue-metallic-145332466-4grqy.png",
     "preco": "R$ 8.990"
   },
   {
@@ -438,13 +438,13 @@
     "modelo": "SP 125",
     "marca": "Honda",
     "ano": 2024,
-    "cor": "Vermelha",
+    "cor": "Azul",
     "cilindrada": 124,
     "freio": "CBS",
     "transmissao": "5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Street",
-    "image": "",
+    "image": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/43482/sp-125-right-side-view-12.png?isig=0",
     "preco": "R$ 11.490"
   },
   {
@@ -458,7 +458,7 @@
     "transmissao": "4 marchas",
     "combustivel": "Gasolina",
     "categoria": "Off-road",
-    "image": "",
+    "image": "https://www.honda.pt/content/dam/central/motorcycles/colour-picker/off-road/crf125f/crf125fb_2025/r-292r_extreme_red/25YM_CRF125FB_Studio_RHS.png/_jcr_content/renditions/c2_r.png",
     "preco": "R$ 22.900"
   },
   {
@@ -472,7 +472,7 @@
     "transmissao": "5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Motocross",
-    "image": "",
+    "image": "https://powersports.honda.com/motorcycle/motocross/-/media/products/family/crf150r/panel-features/desktop/2025/2025-crf150r-2025-crf150r-unicam-engine.png",
     "preco": "R$ 29.900"
   },
   {
@@ -486,7 +486,7 @@
     "transmissao": "6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Super Sport",
-    "image": "",
+    "image": "https://www.honda.com.br/motos/sites/hda/files/2023-01/mobile-moto-honda-cbr-1000rr-r-fireblade-sp-2023--vermelho-grand-prix-00.webp",
     "preco": "R$ 152.900"
   },
   {
@@ -500,7 +500,7 @@
     "transmissao": "6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Custom",
-    "image": "",
+    "image": "https://www.honda.pt/content/dam/central/motorcycles/colour-picker/street/cmx500_rebel/cmx500_rebel_2025/nh-c34m_mat_dim_grey_metallic/25YM_CMX500-Rebel_Studio_Mat-Dim-Gray-Metallic_RHS.png/_jcr_content/renditions/c2_r.png",
     "preco": "R$ 41.900"
   },
   {
@@ -508,13 +508,13 @@
     "modelo": "CB 400 SF",
     "marca": "Honda",
     "ano": 2024,
-    "cor": "Azul",
+    "cor": "Branco e Vermlho",
     "cilindrada": 399,
     "freio": "ABS",
     "transmissao": "6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Naked",
-    "image": "",
+    "image": "https://www.bike-passion.net/image/passionbike/origin/cb400-superfour-vtec-revo.png",
     "preco": "R$ 39.500"
   },
   {
@@ -522,13 +522,13 @@
     "modelo": "Grom 125",
     "marca": "Honda",
     "ano": 2024,
-    "cor": "Amarela",
+    "cor": "Preta",
     "cilindrada": 125,
     "freio": "A disco",
     "transmissao": "5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Mini",
-    "image": "",
+    "image": "https://powersports.honda.com/motorcycle/minimoto/-/media/products/family/grom/trims/trim-main/grom-sp/2026/2026-grom-sp-matte_black_metallic-1505x923.png",
     "preco": "R$ 17.900"
   },
   {
@@ -542,7 +542,7 @@
     "transmissao": "6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Naked",
-    "image": "",
+    "image": "https://www.ncxhonda.com/motorcycles/storage/app/uploads//Color_Chart/CB/Honda_CB-Black.png",
     "preco": "R$ 18.990"
   },
   {
@@ -550,13 +550,13 @@
     "modelo": "CTX 700",
     "marca": "Honda",
     "ano": 2024,
-    "cor": "Preta",
+    "cor": "Branca",
     "cilindrada": 670,
     "freio": "ABS",
     "transmissao": "DCT",
     "combustivel": "Gasolina",
     "categoria": "Touring",
-    "image": "",
+    "image": "https://as.sobrenet.pt/s/image/tsr/brandm/product/1920x1280/ecomw0cfctppbakj50hfoh0y023.png",
     "preco": "R$ 48.900"
   },
   {
@@ -564,13 +564,13 @@
     "modelo": "ST 1300 Pan European",
     "marca": "Honda",
     "ano": 2024,
-    "cor": "Prata",
+    "cor": "Amarelo Deserto",
     "cilindrada": 1261,
     "freio": "ABS",
     "transmissao": "5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Touring",
-    "image": "",
+    "image": "https://global.honda/jp/GOLDWING/models/1988_gl1500/img/main.png",
     "preco": "R$ 89.900"
   },
   {
@@ -584,7 +584,7 @@
     "transmissao": "6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Clássica",
-    "image": "",
+    "image": "https://www.motosport.com.pt/wp-content/uploads/2017/05/c4-1-1.png",
     "preco": "R$ 62.500"
   },
   {
@@ -592,13 +592,13 @@
     "modelo": "Forza 350",
     "marca": "Honda",
     "ano": 2024,
-    "cor": "Azul",
+    "cor": "Preta",
     "cilindrada": 330,
     "freio": "ABS",
     "transmissao": "CVT",
     "combustivel": "Gasolina",
     "categoria": "Scooter",
-    "image": "",
+    "image": "https://www.mototino.pt/wp-content/uploads/2022/01/c4-54.png",
     "preco": "R$ 32.900"
   },
   {
@@ -606,13 +606,13 @@
     "modelo": "Forza 750",
     "marca": "Honda",
     "ano": 2024,
-    "cor": "Preta",
+    "cor": "Branca",
     "cilindrada": 745,
     "freio": "ABS",
     "transmissao": "DCT",
     "combustivel": "Gasolina",
     "categoria": "Scooter Premium",
-    "image": "",
+    "image": "https://www.honda.pt/content/dam/central/motorcycles/colour-picker/scooter/forza_750/forza_750_2026/nh-b53p_pearl_glare_white/26YM_FORZA750_NH-B53P_PEARL%20GLARE%20WHITE_RHS.png/_jcr_content/renditions/c2_r.png",
     "preco": "R$ 79.900"
   },
   {
@@ -626,7 +626,7 @@
     "transmissao": "6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Sport Touring",
-    "image": "",
+    "image": "https://as.sobrenet.pt/s/image/tsr/brandm/product/1920x1280/qihgoscnf03uvhp5erqnpai1t23.png",
     "preco": "R$ 61.900"
   },
   {
@@ -640,7 +640,7 @@
     "transmissao": "5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Custom",
-    "image": "",
+    "image": "https://powersports.honda.com/motorcycle/cruiser/-/media/products/family/shadow-phantom/trims/trim-main/shadow-phantom-abs/2024/2024-shadow-phantom-abs-orange_metallic-1505x923.png?imwidth=776",
     "preco": "R$ 49.900"
   },
   {
@@ -654,7 +654,7 @@
     "transmissao": "6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Trail",
-    "image": "",
+    "image": "https://www.honda.pt/content/dam/central/motorcycles/colour-picker/adventure/crf300l/crf300l_2025/r-292r_extreme_red/25YM_CRF300L_EXTREME-RED_R-292R_RHS.png/_jcr_content/renditions/c2_r.png",
     "preco": "R$ 31.900"
   },
   {
@@ -668,7 +668,7 @@
     "transmissao": "6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Custom",
-    "image": "",
+    "image": "http://powersports.honda.com/motorcycle/cruiser/-/media/products/family/rebel-300/panel-features/desktop/2026/2026-rebel-300-e-clutch-abs-pearl_smoky_gray-profile-1190x736.png",
     "preco": "R$ 27.900"
   },
   {
@@ -682,7 +682,7 @@
     "transmissao": "5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Trail",
-    "image": "",
+    "image": "https://www.motohithonda.com/wp-content/uploads/2018/11/XR150L-20-blanco-version.webp",
     "preco": "R$ 16.900"
   },
   {
@@ -696,7 +696,7 @@
     "transmissao": "Semi-automática",
     "combustivel": "Gasolina",
     "categoria": "Cub",
-    "image": "",
+    "image": "https://motos.honda.com.co/images/cms/nueva-honda-wave-110-gris.png",
     "preco": "R$ 9.490"
   },
   {
