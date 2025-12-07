@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nome": "Honda",
+    "anoCriacao": 1948,
+    "valorMercado": null,
+    "ultimoVeiculoLancado": "Honda Civic Hybrid 2025",
+    "descricao": "Fundada em 1948, a Honda iniciou sua trajetória produzindo motores para bicicletas. Logo se tornou líder global em motocicletas e desenvolveu alguns dos carros mais confiáveis do mundo, destacando-se pela tecnologia e eficiência.",
+    "fundador": "Soichiro Honda",
+    "avaliacao": 5,
+    "logo": "https://i.imgur.com/dWN4Yg9.png",
+    "corTema": "#D32F2F"
+  },
+  {
+    "id": 2,
+    "nome": "Yamaha",
+    "anoCriacao": 1955,
+    "valorMercado": null,
+    "ultimoVeiculoLancado": "Yamaha MT-09 2024",
+    "descricao": "Criada em 1955, a Yamaha rapidamente se tornou referência mundial em motocicletas, motores marítimos e equipamentos de alto desempenho. É uma das marcas mais fortes do mundo em duas rodas.",
+    "fundador": "Genichi Kawakami",
+    "avaliacao": 4,
+    "logo": "https://i.imgur.com/BoE5uUQ.png",
+    "corTema": "#283593"
+  },
+  {
+    "id": 3,
+    "nome": "Hyundai",
+    "anoCriacao": 1967,
+    "valorMercado": 24600000000,
+    "ultimoVeiculoLancado": "Hyundai NEXO 2025",
+    "descricao": "Fundada em 1967, a Hyundai se tornou uma gigante mundial focada em tecnologia, eletrificação e veículos de hidrogênio. Reconhecida por inovação, confiabilidade e design moderno.",
+    "fundador": "Chung Ju-yung",
+    "avaliacao": 4.5,
+    "logo": "https://i.imgur.com/rrQ9mlX.png",
+    "corTema": "#0277BD"
+  }
+]
