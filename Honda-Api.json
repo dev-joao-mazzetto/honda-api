@@ -250,7 +250,7 @@
     "transmissao": "6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Sport",
-    "image": "https://cabralmotor.fbitsstatic.net/img/p/cbr-650r-70282/257402-1.jpg?w=809&h=809&v=202504250935",
+    "image": "https://hondafreeway.com.br/wp-content/uploads/2023/07/CBR650_Vermelha_Galeria01_20240930.png",
     "preco": "R$ 55.360,00",
     "tipo": "moto"
   },
@@ -831,7 +831,7 @@
     "preco": "R$ 220.000",
     "velocidade": 235,
     "tipo": "carro",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgrlcEyAva8aeKJHvSoGcUvMEyaYL2ncfMgQ&s"
+    "image": "https://alcf.s3.us-west-1.amazonaws.com/_custom/2025/honda/civic-si/1ae717452589a538817cde2c79ccaefb_waifu2x_photo_noise1_scale.png"
   },
   {
     "id": 56,
@@ -959,7 +959,7 @@
     "preco": "R$ 185.000",
     "velocidade": 170,
     "tipo": "carro",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFOvpPA-0ylFHXPthmkkfZnoaoWaHhKbTX5Q&s"
+    "image": "https://bluesky-cogcms.cdn.imgeng.in/media/d4rl4fiw/honda-2025-hrv.png?height=992&mode=crop&scale=both"
   },
   {
     "id": 64,
@@ -1119,7 +1119,7 @@
     "preco": "R$ 350.000",
     "velocidade": 200,
     "tipo": "carro",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8TyjpWfw5D6EwxGV_MPSh6iE65EzMHNNhyg&s"
+    "image": "https://mystrongad.com/Honda/2025/cr-v/2025-Honda-CR-V-white.webp"
   },
   {
     "id": 74,
@@ -1391,7 +1391,7 @@
     "preco": "R$ 180.000",
     "velocidade": 170,
     "tipo": "carro",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwNhU1DKsIGCk1SxyonJzZNDf8w18aybAyxA&s"
+    "image": "https://www.honda.com.sg/images/cars/2025_STEP_WGN_SPADA/StepWgn.png"
   },
   {
     "id": 91,
@@ -1407,7 +1407,7 @@
     "preco": "R$ 120.000",
     "velocidade": 165,
     "tipo": "carro",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSORYq2gg4T4pySR2pWL6lG0LeM25QPF3s0Pg&s"
+    "image": "https://royalmotorgrandeur.com.sg/wp-content/uploads/2022/09/Honda-Shuttle-.png"
   },
   {
     "id": 92,
@@ -1439,7 +1439,7 @@
     "preco": "R$ 165.000",
     "velocidade": 185,
     "tipo": "carro",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjo_ON7DZRbj_I4rQEhqoaPkEoVSwYf_DeGA&s"
+    "image": "https://di-uploads-pod23.dealerinspire.com/rairdonshondaofsumner/uploads/2021/10/2022-Honda-Insight-Leader.png"
   },
   {
     "id": 94,
@@ -1535,7 +1535,7 @@
     "preco": "R$ 78.000",
     "velocidade": 135,
     "tipo": "carro",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqNqMwqNcZc7GVoSVOnEqucNrbyb-Qo9BXjw&s"
+    "image": "https://www.hondanet.co.jp/common-lineup/v2/img/car/n_wgn.png"
   },
   {
     "id": 100,
@@ -1555,7 +1555,7 @@
   },
   {
     "id": 101,
-    "modelo": "Hyundai HB20 1.0",
+    "modelo": "HB20 1.0",
     "marca": "Hyundai",
     "ano": 2023,
     "motor": 1.0,
@@ -1571,7 +1571,7 @@
   },
   {
     "id": 102,
-    "modelo": "Hyundai HB20S 1.6",
+    "modelo": "HB20S 1.6",
     "marca": "Hyundai",
     "ano": 2023,
     "motor": 1.6,
@@ -1587,7 +1587,7 @@
   },
   {
     "id": 103,
-    "modelo": "Hyundai Creta Action 1.6",
+    "modelo": "Creta Action 1.6",
     "marca": "Hyundai",
     "ano": 2022,
     "motor": 1.6,
@@ -1603,7 +1603,7 @@
   },
   {
     "id": 104,
-    "modelo": "Hyundai Creta N Line 1.0 TGDI",
+    "modelo": "Creta N Line 1.0 TGDI",
     "marca": "Hyundai",
     "ano": 2024,
     "motor": 1.0,
@@ -1619,7 +1619,7 @@
   },
   {
     "id": 105,
-    "modelo": "Hyundai Tucson 1.6 Turbo",
+    "modelo": "Tucson 1.6 Turbo",
     "marca": "Hyundai",
     "ano": 2023,
     "motor": 1.6,
@@ -1635,7 +1635,7 @@
   },
   {
     "id": 106,
-    "modelo": "Hyundai Santa Fe 2.5 Turbo",
+    "modelo": "Santa Fe 2.5 Turbo",
     "marca": "Hyundai",
     "ano": 2024,
     "motor": 2.5,
@@ -1651,7 +1651,7 @@
   },
   {
     "id": 107,
-    "modelo": "Hyundai Azera 3.5 V6",
+    "modelo": "Azera 3.5 V6",
     "marca": "Hyundai",
     "ano": 2021,
     "motor": 3.5,
@@ -1667,7 +1667,7 @@
   },
   {
     "id": 108,
-    "modelo": "Hyundai Sonata Hybrid",
+    "modelo": "Sonata Hybrid",
     "marca": "Hyundai",
     "ano": 2024,
     "motor": 2.0,
@@ -1679,11 +1679,11 @@
     "preco": "R$ 230.000",
     "velocidade": 210,
     "tipo": "carro",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWnorG_7aphAcUkq8CBcUK3E0WmY-bkoldMQ&s"
+    "image": "https://platform.cstatic-images.com/in/v2/stock_photos/60e5cbb0-6f85-4027-8bf4-73becb6cc5cc/90392e42-3c3c-4ec9-8a17-4272a6696ae2.png"
   },
   {
     "id": 109,
-    "modelo": "Hyundai Elantra 2.0",
+    "modelo": "Elantra 2.0",
     "marca": "Hyundai",
     "ano": 2023,
     "motor": 2.0,
@@ -1699,7 +1699,7 @@
   },
   {
     "id": 110,
-    "modelo": "Hyundai i20 N 1.6 Turbo",
+    "modelo": "i20 N 1.6 Turbo",
     "marca": "Hyundai",
     "ano": 2023,
     "motor": 1.6,
@@ -1715,7 +1715,7 @@
   },
   {
     "id": 111,
-    "modelo": "Hyundai Kona Electric",
+    "modelo": "Kona Electric",
     "marca": "Hyundai",
     "ano": 2024,
     "motor": 0.0,
@@ -1731,7 +1731,7 @@
   },
   {
     "id": 112,
-    "modelo": "Hyundai Ioniq 5",
+    "modelo": "Ioniq 5",
     "marca": "Hyundai",
     "ano": 2024,
     "motor": 0.0,
@@ -1747,7 +1747,7 @@
   },
   {
     "id": 113,
-    "modelo": "Hyundai Ioniq 6",
+    "modelo": "Ioniq 6",
     "marca": "Hyundai",
     "ano": 2024,
     "motor": 0.0,
@@ -1759,11 +1759,11 @@
     "preco": "R$ 420.000",
     "velocidade": 225,
     "tipo": "carro",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkL5XevH0WH_zcvWNshtmY7ie5hYJTrkULnw&s"
+    "image": "https://vehicle-images.dealerinspire.com/stock-images/thumbnails/large/chrome/8ec3cfa80a04150b69ad5ca59c64df80.png"
   },
   {
     "id": 114,
-    "modelo": "Hyundai Venue 1.6",
+    "modelo": "Venue 1.6",
     "marca": "Hyundai",
     "ano": 2022,
     "motor": 1.6,
@@ -1779,7 +1779,7 @@
   },
   {
     "id": 115,
-    "modelo": "Hyundai Palisade 3.8 V6",
+    "modelo": "Palisade 3.8 V6",
     "marca": "Hyundai",
     "ano": 2023,
     "motor": 3.8,
@@ -1795,7 +1795,7 @@
   },
   {
     "id": 116,
-    "modelo": "Hyundai Staria 2.2 Diesel",
+    "modelo": "Staria 2.2 Diesel",
     "marca": "Hyundai",
     "ano": 2024,
     "motor": 2.2,
@@ -1807,11 +1807,11 @@
     "preco": "R$ 320.000",
     "velocidade": 185,
     "tipo": "carro",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqUAhxyagPNnGgpGxfxS8a92HwqO3oY9pgg&s"
+    "image": "https://resource.digitaldealer.com.au/image/14644006316694a19e7006e619293638_600_0.png"
   },
   {
     "id": 117,
-    "modelo": "Hyundai H100 2.5 Diesel",
+    "modelo": "H100 2.5 Diesel",
     "marca": "Hyundai",
     "ano": 2022,
     "motor": 2.5,
@@ -1827,7 +1827,7 @@
   },
   {
     "id": 118,
-    "modelo": "Hyundai Porter 2.5",
+    "modelo": "Porter 2.5",
     "marca": "Hyundai",
     "ano": 2023,
     "motor": 2.5,
@@ -1843,7 +1843,7 @@
   },
   {
     "id": 119,
-    "modelo": "Hyundai Accent 1.6",
+    "modelo": "Accent 1.6",
     "marca": "Hyundai",
     "ano": 2023,
     "motor": 1.6,
@@ -1855,11 +1855,11 @@
     "preco": "R$ 110.000",
     "velocidade": 190,
     "tipo": "carro",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo82i-cbkbRQuoQ_ZuZf-Ni67kE50i-85aJQ&s"
+    "image": "https://falcondrive.ae/public/storage/cars/August2024/cE1zX1zyKk8vpelLMYiQ.png"
   },
   {
     "id": 120,
-    "modelo": "Hyundai Veloster 1.6 Turbo",
+    "modelo": "Veloster 1.6 Turbo",
     "marca": "Hyundai",
     "ano": 2022,
     "motor": 1.6,
@@ -1875,7 +1875,7 @@
   },
   {
     "id": 121,
-    "modelo": "Hyundai Genesis G80 3.3",
+    "modelo": "Genesis G80 3.3",
     "marca": "Hyundai",
     "ano": 2020,
     "motor": 3.3,
@@ -1891,7 +1891,7 @@
   },
   {
     "id": 122,
-    "modelo": "Hyundai Genesis GV80 3.5T",
+    "modelo": "Genesis GV80 3.5T",
     "marca": "Hyundai",
     "ano": 2024,
     "motor": 3.5,
@@ -1907,7 +1907,7 @@
   },
   {
     "id": 123,
-    "modelo": "Hyundai Bayon 1.0 Turbo",
+    "modelo": "Bayon 1.0 Turbo",
     "marca": "Hyundai",
     "ano": 2023,
     "motor": 1.0,
@@ -1923,7 +1923,7 @@
   },
   {
     "id": 124,
-    "modelo": "Hyundai Exter 1.2",
+    "modelo": "Exter 1.2",
     "marca": "Hyundai",
     "ano": 2024,
     "motor": 1.2,
@@ -1939,7 +1939,7 @@
   },
   {
     "id": 125,
-    "modelo": "Hyundai Grand i10 1.2",
+    "modelo": "Grand i10 1.2",
     "marca": "Hyundai",
     "ano": 2023,
     "motor": 1.2,
@@ -1955,7 +1955,7 @@
   },
   {
     "id": 126,
-    "modelo": "Hyundai i10 N Line 1.0 Turbo",
+    "modelo": "i10 N Line 1.0 Turbo",
     "marca": "Hyundai",
     "ano": 2024,
     "motor": 1.0,
@@ -1971,7 +1971,7 @@
   },
   {
     "id": 127,
-    "modelo": "Hyundai Tucson Hybrid 1.6",
+    "modelo": "Tucson Hybrid 1.6",
     "marca": "Hyundai",
     "ano": 2024,
     "motor": 1.6,
@@ -1987,7 +1987,7 @@
   },
   {
     "id": 128,
-    "modelo": "Hyundai Creta Grand 2.0",
+    "modelo": "Creta Grand 2.0",
     "marca": "Hyundai",
     "ano": 2023,
     "motor": 2.0,
@@ -2003,7 +2003,7 @@
   },
   {
     "id": 129,
-    "modelo": "Hyundai HB20 Comfort 1.0 Turbo",
+    "modelo": "HB20 Comfort 1.0 Turbo",
     "marca": "Hyundai",
     "ano": 2024,
     "motor": 1.0,
@@ -2019,7 +2019,7 @@
   },
   {
     "id": 130,
-    "modelo": "Hyundai HB20X Premium 1.6",
+    "modelo": "HB20X Premium 1.6",
     "marca": "Hyundai",
     "ano": 2021,
     "motor": 1.6,
@@ -2035,7 +2035,7 @@
   },
   {
     "id": 131,
-    "modelo": "Hyundai i30 2.0",
+    "modelo": "i30 2.0",
     "marca": "Hyundai",
     "ano": 2016,
     "motor": 2.0,
@@ -2051,7 +2051,7 @@
   },
   {
     "id": 132,
-    "modelo": "Hyundai Ioniq Electric",
+    "modelo": "Ioniq Electric",
     "marca": "Hyundai",
     "ano": 2023,
     "motor": 0.0,
@@ -2067,7 +2067,7 @@
   },
   {
     "id": 133,
-    "modelo": "Hyundai Kona N 2.0 Turbo",
+    "modelo": "Kona N 2.0 Turbo",
     "marca": "Hyundai",
     "ano": 2023,
     "motor": 2.0,
@@ -2079,11 +2079,11 @@
     "preco": "R$ 230.000",
     "velocidade": 240,
     "tipo": "carro",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1F9tNhYaQfnxg1zq1lVRzFG76aOVzaFukcQ&s"
+    "image": "https://pictures.dealer.com/g/granitehyundainh/1234/0fb9940928484e268efd4b37698f4b5f.png?impolicy=downsize_bkpt&w=410"
   },
   {
     "id": 134,
-    "modelo": "Hyundai Avante 1.6",
+    "modelo": "Avante 1.6",
     "marca": "Hyundai",
     "ano": 2022,
     "motor": 1.6,
@@ -2095,11 +2095,11 @@
     "preco": "R$ 105.000",
     "velocidade": 190,
     "tipo": "carro",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQhtsRoBRgcwUMA-Gl4HFv3nn4VuYVTwZz4w&s"
+    "image": "https://hyundai.com.sg/_nuxt/image/678794.png"
   },
   {
     "id": 135,
-    "modelo": "Hyundai Terracan 2.9 Diesel",
+    "modelo": "Terracan 2.9 Diesel",
     "marca": "Hyundai",
     "ano": 2006,
     "motor": 2.9,
@@ -2115,7 +2115,7 @@
   },
   {
     "id": 136,
-    "modelo": "Hyundai Equus 5.0 V8",
+    "modelo": "Equus 5.0 V8",
     "marca": "Hyundai",
     "ano": 2016,
     "motor": 5.0,
@@ -2131,7 +2131,7 @@
   },
   {
     "id": 137,
-    "modelo": "Hyundai Matrix 1.8",
+    "modelo": "Matrix 1.8",
     "marca": "Hyundai",
     "ano": 2010,
     "motor": 1.8,
@@ -2143,11 +2143,11 @@
     "preco": "R$ 32.000",
     "velocidade": 175,
     "tipo": "carro",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxULaoQC73xWm_Dd7iJTzv9tGf7w9JrGxh5g&s"
+    "image": "https://ik.imagekit.io/2ero5nzbxo2/tr:di-placeholder.png,q-70,w-375,q-70/FILES/generations/ESYBQuK3lFyoY9SpUNqsmwgJDe27TpWvBRCRna2R.png?ik-sdk-version=php-2.0.0"
   },
   {
     "id": 138,
-    "modelo": "Hyundai Trajet 2.0",
+    "modelo": "Trajet 2.0",
     "marca": "Hyundai",
     "ano": 2008,
     "motor": 2.0,
@@ -2163,7 +2163,7 @@
   },
   {
     "id": 139,
-    "modelo": "Hyundai Getz 1.4",
+    "modelo": "Getz 1.4",
     "marca": "Hyundai",
     "ano": 2011,
     "motor": 1.4,
@@ -2179,7 +2179,7 @@
   },
   {
     "id": 140,
-    "modelo": "Hyundai ix35 2.0",
+    "modelo": "ix35 2.0",
     "marca": "Hyundai",
     "ano": 2015,
     "motor": 2.0,
@@ -2195,7 +2195,7 @@
   },
   {
     "id": 141,
-    "modelo": "Hyundai Starex 2.5 Diesel",
+    "modelo": "Starex 2.5 Diesel",
     "marca": "Hyundai",
     "ano": 2018,
     "motor": 2.5,
@@ -2207,11 +2207,11 @@
     "preco": "R$ 160.000",
     "velocidade": 170,
     "tipo": "carro",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/2018_Hyundai_Starex%2C_front_8.7.18.jpg/640px-2018_Hyundai_Starex%2C_front_8.7.18.jpg"
+    "image": "https://ecosetting-files.com/en/image/models/K6l50JHUg8DeGUs0GIjfmarslOcA94.png"
   },
   {
     "id": 142,
-    "modelo": "Hyundai Aero City",
+    "modelo": "Aero City",
     "marca": "Hyundai",
     "ano": 2020,
     "motor": 6.7,
@@ -2227,7 +2227,7 @@
   },
   {
     "id": 143,
-    "modelo": "Hyundai Mighty 3.0 Diesel",
+    "modelo": "Mighty 3.0 Diesel",
     "marca": "Hyundai",
     "ano": 2022,
     "motor": 3.0,
@@ -2239,11 +2239,11 @@
     "preco": "R$ 230.000",
     "velocidade": 130,
     "tipo": "carro",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzMErAkHwQbLSp_pMZzEr-eZxtQNa6NLAARw&s"
+    "image": "https://hyundaitrucks.b-cdn.net/wp-content/uploads/white-001.png"
   },
   {
     "id": 144,
-    "modelo": "Hyundai Universe 12.7",
+    "modelo": "Universe 12.7",
     "marca": "Hyundai",
     "ano": 2023,
     "motor": 12.7,
@@ -2259,7 +2259,7 @@
   },
   {
     "id": 145,
-    "modelo": "Hyundai Santro 1.1",
+    "modelo": "Santro 1.1",
     "marca": "Hyundai",
     "ano": 2021,
     "motor": 1.1,
@@ -2275,7 +2275,7 @@
   },
   {
     "id": 146,
-    "modelo": "Hyundai Verna 1.5 Turbo",
+    "modelo": "Verna 1.5 Turbo",
     "marca": "Hyundai",
     "ano": 2024,
     "motor": 1.5,
@@ -2287,11 +2287,11 @@
     "preco": "R$ 125.000",
     "velocidade": 200,
     "tipo": "carro",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJSVR0ce9LGwF_Rxw8EXFZJHBwWZQEI2cRjw&s"
+    "image": "https://trident-group.s3.ap-south-1.amazonaws.com/hyundai/models/colors/1698658805.png"
   },
   {
     "id": 147,
-    "modelo": "Hyundai Alcazar 2.0",
+    "modelo": "Alcazar 2.0",
     "marca": "Hyundai",
     "ano": 2023,
     "motor": 2.0,
@@ -2307,7 +2307,7 @@
   },
   {
     "id": 148,
-    "modelo": "Hyundai Tucson 2.0 Flex",
+    "modelo": "Tucson 2.0 Flex",
     "marca": "Hyundai",
     "ano": 2018,
     "motor": 2.0,
@@ -2319,11 +2319,11 @@
     "preco": "R$ 95.000",
     "velocidade": 185,
     "tipo": "carro",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlolU_6Av6PGKVvh_WTQoZFiW_hqta0e4YDA&s"
+    "image": "https://www.webmotors.com.br/tabela-fipe/_next/image?url=https%3A%2F%2Fwww.webmotors.com.br%2Fimagens%2Fprod%2F347318%2FHYUNDAI_TUCSON_1.6_16V_TGDI_GASOLINA_LIMITED_ECOSHIFT_34731809010154692.webp&w=768&q=75"
   },
   {
     "id": 149,
-    "modelo": "Hyundai Nexo Fuel Cell",
+    "modelo": "Nexo Fuel Cell",
     "marca": "Hyundai",
     "ano": 2024,
     "motor": 0.0,
@@ -2339,7 +2339,7 @@
   },
   {
     "id": 150,
-    "modelo": "Hyundai Casper 1.0",
+    "modelo": "Casper 1.0",
     "marca": "Hyundai",
     "ano": 2023,
     "motor": 1.0,
@@ -2441,7 +2441,7 @@
     "transmissao": "Manual 5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Trail",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV6NZ9kestXqNJihSCflSik6Dg9DvNUbthJg&s",
+    "image": "https://mlfiglnuxfgt.i.optimole.com/RJvaaXw-Jpn0rqaG/w:auto/h:auto/q:eco/https://dvrmotosyamaha.com.br/wp-content/uploads/2017/08/2025_360_LANDER_COMPETITION_BLUE-1194-760x570-c-default.png",
     "preco": "R$ 27.390,00",
     "tipo": "moto"
   },
@@ -2531,7 +2531,7 @@
     "transmissao": "Manual 6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Sport Touring",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWEsdMYgHJgr98l8dtA0CupjiwS01viOrUPA&s",
+    "image": "https://image1.mobiauto.com.br/images/api/images/v1.0/403756766/transform/fl_progressive,f_webp,q_70,w_750",
     "preco": "R$ 69.990,00",
     "tipo": "moto"
   },
@@ -2591,7 +2591,7 @@
     "transmissao": "Manual 4 marchas",
     "combustivel": "Gasolina",
     "categoria": "Cub",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP23jZygf-UdxAVIZbKuvxPG4pr9s01a1LrA&s",
+    "image": "https://yamahaumb.com/wp-content/uploads/2025/10/crypton_2026_gris-1.webp",
     "preco": "R$ 10.990,00",
     "tipo": "moto"
   },
@@ -2747,7 +2747,7 @@
   },
   {
     "id": 177,
-    "modelo": "Yamaha FZ-S 250",
+    "modelo": "FZ-S 250",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Preta",
@@ -2762,7 +2762,7 @@
   },
   {
     "id": 178,
-    "modelo": "Yamaha YZF-R15",
+    "modelo": "YZF-R15",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Azul",
@@ -2777,7 +2777,7 @@
   },
   {
     "id": 179,
-    "modelo": "Yamaha Aerox 155",
+    "modelo": "Aerox 155",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Branca",
@@ -2792,7 +2792,7 @@
   },
   {
     "id": 180,
-    "modelo": "Yamaha RayZR 125",
+    "modelo": "RayZR 125",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Verde",
@@ -2807,7 +2807,7 @@
   },
   {
     "id": 181,
-    "modelo": "Yamaha Delight 125",
+    "modelo": "Delight 125",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Cinza",
@@ -2822,7 +2822,7 @@
   },
   {
     "id": 182,
-    "modelo": "Yamaha WR155R",
+    "modelo": "WR155R",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Azul",
@@ -2837,7 +2837,7 @@
   },
   {
     "id": 183,
-    "modelo": "Yamaha XTZ 250",
+    "modelo": "XTZ 250",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Azul",
@@ -2852,7 +2852,7 @@
   },
   {
     "id": 184,
-    "modelo": "Yamaha YBR 150",
+    "modelo": "YBR 150",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Preta",
@@ -2867,7 +2867,7 @@
   },
   {
     "id": 185,
-    "modelo": "Yamaha XS155R",
+    "modelo": "XS155R",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Cinza",
@@ -2882,7 +2882,7 @@
   },
   {
     "id": 186,
-    "modelo": "Yamaha SR400",
+    "modelo": "SR400",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Preta",
@@ -2891,13 +2891,13 @@
     "transmissao": "5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Classic",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfXDaJH0m-_pBkLExmMezwmc0oiJ7AFmfLUQ&s",
+    "image": "https://storagetym.blob.core.windows.net/www2021/images/product-2021/bigbike/model-big-bike-2023/sr400-2023/sr400-gr-03.png?sfvrsn=bbf41588_2",
     "preco": "R$ 29.990,00",
     "tipo": "moto"
   },
   {
     "id": 187,
-    "modelo": "Yamaha XSR155",
+    "modelo": "XSR155",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Amarela",
@@ -2912,7 +2912,7 @@
   },
   {
     "id": 188,
-    "modelo": "Yamaha XSR900",
+    "modelo": "XSR900",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Cinza",
@@ -2927,7 +2927,7 @@
   },
   {
     "id": 189,
-    "modelo": "Yamaha TMax 560",
+    "modelo": "TMax 560",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Preta",
@@ -2942,7 +2942,7 @@
   },
   {
     "id": 190,
-    "modelo": "Yamaha Jog 125",
+    "modelo": "Jog 125",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Branca",
@@ -2957,7 +2957,7 @@
   },
   {
     "id": 191,
-    "modelo": "Yamaha Niken 900",
+    "modelo": "Niken 900",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Cinza",
@@ -2972,7 +2972,7 @@
   },
   {
     "id": 192,
-    "modelo": "Yamaha YZF-R125",
+    "modelo": "YZF-R125",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Azul",
@@ -2987,7 +2987,7 @@
   },
   {
     "id": 193,
-    "modelo": "Yamaha XT1200Z Tenere",
+    "modelo": "XT1200Z Tenere",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Azul",
@@ -3018,7 +3018,7 @@
   },
   {
     "id": 195,
-    "modelo": "Yamaha Tracer 700",
+    "modelo": "Tracer 700",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Vermelha",
@@ -3033,7 +3033,7 @@
   },
   {
     "id": 196,
-    "modelo": "Yamaha BW’s 125",
+    "modelo": "BW’s 125",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Amarela",
@@ -3048,7 +3048,7 @@
   },
   {
     "id": 197,
-    "modelo": "Yamaha R6",
+    "modelo": "R6",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Preta",
@@ -3063,7 +3063,7 @@
   },
   {
     "id": 198,
-    "modelo": "Yamaha XV950R",
+    "modelo": "XV950R",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Cinza",
@@ -3078,7 +3078,7 @@
   },
   {
     "id": 199,
-    "modelo": "Yamaha XT660R",
+    "modelo": "XT660R",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Azul",
@@ -3093,7 +3093,7 @@
   },
   {
     "id": 200,
-    "modelo": "Yamaha YZF-R1M",
+    "modelo": "YZF-R1M",
     "marca": "Yamaha",
     "ano": 2024,
     "cor": "Cinza",
