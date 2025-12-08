@@ -749,9 +749,10 @@
     "preco": "R$ 9.490",
     "tipo": "moto"
   },
-  {
-    "_comentario": "Acima são motos. Abaixo são carros"
-  },
+
+
+
+
   {
     "id": 51,
     "modelo": "Civic EX",
@@ -958,7 +959,7 @@
     "preco": "R$ 185.000",
     "velocidade": 170,
     "tipo": "carro",
-    "image": "https://hondaotosaigon-quan2.com/wp-content/uploads/2025/04/honda-hrv-e-hev-2025.webp"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFOvpPA-0ylFHXPthmkkfZnoaoWaHhKbTX5Q&s"
   },
   {
     "id": 64,
@@ -1390,7 +1391,7 @@
     "preco": "R$ 180.000",
     "velocidade": 170,
     "tipo": "carro",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSORYq2gg4T4pySR2pWL6lG0LeM25QPF3s0Pg&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwNhU1DKsIGCk1SxyonJzZNDf8w18aybAyxA&s"
   },
   {
     "id": 91,
@@ -1402,7 +1403,7 @@
     "combustivel": "Híbrido",
     "transmissao": "e-CVT",
     "torque": 170,
-    "categoria": "Outros",
+    "categoria": "Minivan",
     "preco": "R$ 120.000",
     "velocidade": 165,
     "tipo": "carro",
@@ -1418,7 +1419,7 @@
     "combustivel": "Gasolina",
     "transmissao": "CVT",
     "torque": 100,
-    "categoria": "Outros",
+    "categoria": "Minivan",
     "preco": "R$ 85.000",
     "velocidade": 140,
     "tipo": "carro",
@@ -1498,7 +1499,7 @@
     "combustivel": "Gasolina",
     "transmissao": "Automática 9 marchas",
     "torque": 355,
-    "categoria": "Outros",
+    "categoria": "Caminhonete",
     "preco": "R$ 280.000",
     "velocidade": 190,
     "tipo": "carro",
@@ -1530,7 +1531,7 @@
     "combustivel": "Gasolina",
     "transmissao": "CVT",
     "torque": 65,
-    "categoria": "Outros",
+    "categoria": "Minivan",
     "preco": "R$ 78.000",
     "velocidade": 135,
     "tipo": "carro",
@@ -1566,7 +1567,7 @@
     "preco": "R$ 82.000",
     "velocidade": 160,
     "tipo": "carro",
-    "image": "https://storage.googleapis.com/digitalplatform_hmb/digitalplatform/hmb/hb20/2023/externas/hatch/hb20-hatch-azul.png"
+    "image": "https://production.autoforce.com/uploads/version/profile_image/9795/comprar-comfort-plus-1-0-tgdi-automatico_93aa1bfdff.png"
   },
   {
     "id": 102,
@@ -1582,7 +1583,7 @@
     "preco": "R$ 102.000",
     "velocidade": 190,
     "tipo": "carro",
-    "image": "https://hyundai.com.br/images/hb20s-2023/hb20s-branco.png"
+    "image": "https://www.webmotors.com.br/tabela-fipe/_next/image?url=https%3A%2F%2Fwww.webmotors.com.br%2Fimagens%2Fprod%2F379980%2FHYUNDAI_HB20S_1.0_TGDI_FLEX_LIMITED_AUTOMATICO_37998010514428694.webp&w=1265&q=75"
   },
   {
     "id": 103,
@@ -1598,7 +1599,7 @@
     "preco": "R$ 128.000",
     "velocidade": 185,
     "tipo": "carro",
-    "image": "https://hyundai.com.br/images/creta/2022/creta-action-prata.png"
+    "image": "https://blog.cssdigital.com.br/wp-content/uploads/2023/06/CRETA_GLS_SlateBlue_.png"
   },
   {
     "id": 104,
@@ -1614,7 +1615,7 @@
     "preco": "R$ 158.000",
     "velocidade": 190,
     "tipo": "carro",
-    "image": "https://hyundai.com.br/images/creta-nline/2024/creta-nline-vermelho.png"
+    "image": "https://production.autoforce.com/uploads/version/profile_image/9175/model_main_webp_comprar-n-line-1-0-tgdi-automatico_b87b738bb1.png.webp"
   },
   {
     "id": 105,
@@ -1630,7 +1631,7 @@
     "preco": "R$ 198.000",
     "velocidade": 200,
     "tipo": "carro",
-    "image": "https://hyundai.com.br/images/tucson-2023/tucson-prata.png"
+    "image": "https://images.carprices.com/pricebooks_data/usa/colorized/2023/Hyundai/View2/Tucson_Hybrid/Limited/854E2ABS_W6H.png"
   },
   {
     "id": 106,
@@ -1646,7 +1647,7 @@
     "preco": "R$ 310.000",
     "velocidade": 210,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/santa-fe/2024/global-santa-fe-exterior-silver.png"
+    "image": "https://images.carprices.com/pricebooks_data/usa/colorized/2024/Hyundai/View2/Santa_Fe/XRT/65462AT5_WG2.png"
   },
   {
     "id": 107,
@@ -1662,7 +1663,7 @@
     "preco": "R$ 250.000",
     "velocidade": 240,
     "tipo": "carro",
-    "image": "https://hyundai.com.br/images/azera/2021/azera-preto.png"
+    "image": "https://ymimg1.b8cdn.com/uploads/car_model/6148/pictures/6028430/Azera.webp"
   },
   {
     "id": 108,
@@ -1678,7 +1679,7 @@
     "preco": "R$ 230.000",
     "velocidade": 210,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/sonata-hybrid/2024/hyundai-sonata-hybrid-blue.png"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWnorG_7aphAcUkq8CBcUK3E0WmY-bkoldMQ&s"
   },
   {
     "id": 109,
@@ -1694,7 +1695,7 @@
     "preco": "R$ 140.000",
     "velocidade": 200,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/elantra/2023/exterior/elantra-white.png"
+    "image": "https://images.carprices.com/pricebooks_data/usa/colorized/2023/Hyundai/View2/Elantra_N/Elantra_N/4N4A2FT5_C5G.png"
   },
   {
     "id": 110,
@@ -1710,7 +1711,7 @@
     "preco": "R$ 180.000",
     "velocidade": 230,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/i20n/2023/exterior/i20n-blue.png"
+    "image": "https://www.hyundai-n.com/inc/images/Models/i20N/i20N_Specification_01_mo.png"
   },
   {
     "id": 111,
@@ -1726,7 +1727,7 @@
     "preco": "R$ 220.000",
     "velocidade": 167,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/kona-electric/2024/kona-electric-white.png"
+    "image": "https://www.greenncap.com/wp-content/uploads/hyundai-kona-2024-0184.png"
   },
   {
     "id": 112,
@@ -1742,7 +1743,7 @@
     "preco": "R$ 350.000",
     "velocidade": 185,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/ioniq5/2024/ioniq5-silver.png"
+    "image": "https://di-uploads-pod11.dealerinspire.com/lithiahyundaiofreno/uploads/2023/12/Retro.active.adv_IO5.png"
   },
   {
     "id": 113,
@@ -1758,7 +1759,7 @@
     "preco": "R$ 420.000",
     "velocidade": 225,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/ioniq6/2024/ioniq6-grey.png"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkL5XevH0WH_zcvWNshtmY7ie5hYJTrkULnw&s"
   },
   {
     "id": 114,
@@ -1774,7 +1775,7 @@
     "preco": "R$ 110.000",
     "velocidade": 185,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/venue/2022/venue-white.png"
+    "image": "https://d2ivfcfbdvj3sm.cloudfront.net/F_fLs1_nZkXoRPNg/50119/stills_0640_png/MY2021/50119/50119_st0640_116.webp?c=172&p=164&m=1&o=png&s=n61Hy6F3Y38CWsu8rtkTgU"
   },
   {
     "id": 115,
@@ -1790,7 +1791,7 @@
     "preco": "R$ 450.000",
     "velocidade": 210,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/palisade/2023/palisade-black.png"
+    "image": "https://ocarronovo.com.br/wp-content/uploads/2023/05/image-35-1024x461.png"
   },
   {
     "id": 116,
@@ -1806,7 +1807,7 @@
     "preco": "R$ 320.000",
     "velocidade": 185,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/staria/2024/staria-black.png"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqUAhxyagPNnGgpGxfxS8a92HwqO3oY9pgg&s"
   },
   {
     "id": 117,
@@ -1822,7 +1823,7 @@
     "preco": "R$ 145.000",
     "velocidade": 140,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/h100/2022/h100-white.png"
+    "image": "https://www.webmotors.com.br/imagens/prod/379404/HYUNDAI_HR_2.5_TURBO_DIESEL_CS_4WD_MANUAL_37940416571339152.webp"
   },
   {
     "id": 118,
@@ -1838,7 +1839,7 @@
     "preco": "R$ 155.000",
     "velocidade": 145,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/porter/2023/porter-blue.png"
+    "image": "https://www.webmotors.com.br/tabela-fipe/_next/image?url=https%3A%2F%2Fwww.webmotors.com.br%2Fimagens%2Fprod%2F379319%2FKIA_BONGO_2.5_TD_DIESEL_STD_CS_4X4_MANUAL_3793191104188284.webp&w=1265&q=75"
   },
   {
     "id": 119,
@@ -1854,7 +1855,7 @@
     "preco": "R$ 110.000",
     "velocidade": 190,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/accent/2023/accent-white.png"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo82i-cbkbRQuoQ_ZuZf-Ni67kE50i-85aJQ&s"
   },
   {
     "id": 120,
@@ -1870,7 +1871,7 @@
     "preco": "R$ 175.000",
     "velocidade": 220,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/veloster/2022/veloster-orange.png"
+    "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/85765826/4723337309.png"
   },
   {
     "id": 121,
@@ -1886,7 +1887,7 @@
     "preco": "R$ 320.000",
     "velocidade": 235,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/genesis/ww/en/images/g80/2020/g80-silver.png"
+    "image": "https://file.kelleybluebookimages.com/kbb/base/evox/CP/12145/2020-Genesis-G80-front_12145_032_1843x751_RGY_cropped.png"
   },
   {
     "id": 122,
@@ -1898,11 +1899,11 @@
     "combustivel": "Gasolina",
     "transmissao": "Automático 8 marchas",
     "torque": 53.0,
-    "categoria": "SUV de luxo",
+    "categoria": "SUV",
     "preco": "R$ 520.000",
     "velocidade": 250,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/genesis/ww/en/images/gv80/2024/gv80-black.png"
+    "image": "https://vehicle-images.dealerinspire.com/stock-images/thumbnails/large/chrome/691574a995f6b2549b88cead5de72f58.png"
   },
   {
     "id": 123,
@@ -1918,7 +1919,7 @@
     "preco": "R$ 120.000",
     "velocidade": 185,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/bayon/2023/bayon-green.png"
+    "image": "https://www.brayleys.co.uk/assets/brands/hyundai/new-bayon/hme_bc3_cuv_360_ext_saw-atlas-white_52910q0430_131.png"
   },
   {
     "id": 124,
@@ -1930,11 +1931,11 @@
     "combustivel": "Gasolina",
     "transmissao": "Manual 5 marchas",
     "torque": 11.5,
-    "categoria": "SUV compacto",
+    "categoria": "SUV",
     "preco": "R$ 85.000",
     "velocidade": 160,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/exter/2024/exter-green.png"
+    "image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/144851/exter-exterior-right-front-three-quarter-64.png?isig=0&q=80&q=80"
   },
   {
     "id": 125,
@@ -1950,7 +1951,7 @@
     "preco": "R$ 70.000",
     "velocidade": 160,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/grand-i10/2023/grand-i10-red.png"
+    "image": "https://cars.webeng.co/wp-content/uploads/2023/09/Gi10Hatch_SIDE_png_1690457414-1-1024x682.png"
   },
   {
     "id": 126,
@@ -1966,7 +1967,7 @@
     "preco": "R$ 95.000",
     "velocidade": 185,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/i10-nline/2024/i10-nline-blue.png"
+    "image": "https://cdn.imagin.studio/getImage?customer=selectcarleasing&angle=1&aspectRatio=1.85&bodySize=5&countryCode=GB&fileType=webp&groundPlaneAdjustment=-0.5&make=hyundai&modelFamily=i10&modelRange=i10&modelVariant=hatchback&modelYear=2024&powerTrain=petrol&transmission=Manual&trim=n-line&width=440&zoomLevel=60&zoomType=relative"
   },
   {
     "id": 127,
@@ -1982,7 +1983,7 @@
     "preco": "R$ 260.000",
     "velocidade": 205,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/tucson-hybrid/2024/tucson-hybrid-blue.png"
+    "image": "https://di-uploads-pod37.dealerinspire.com/amatohyundaiofglendale/uploads/2023/11/24Hyundai-TucsonHybrid-NLine-TitanGray-Jellybean.png"
   },
   {
     "id": 128,
@@ -1994,11 +1995,11 @@
     "combustivel": "Flex",
     "transmissao": "Automático 6 marchas",
     "torque": 19.6,
-    "categoria": "SUV 7 lugares",
+    "categoria": "SUV",
     "preco": "R$ 168.000",
     "velocidade": 190,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/br/creta-grand/2023/creta-grand-prata.png"
+    "image": "https://hyundai.pe/wp-content/webp-express/webp-images/uploads/2025/02/GRIS.png.webp"
   },
   {
     "id": 129,
@@ -2014,7 +2015,7 @@
     "preco": "R$ 96.000",
     "velocidade": 190,
     "tipo": "carro",
-    "image": "https://hyundai.com.br/images/hb20-2024/hb20-cinza.png"
+    "image": "https://cdn-site-seminovos.localiza.com/Anuncios/4c2eeeb1-3d62-4f8f-8f29-b69a15fa1fbe/.webp"
   },
   {
     "id": 130,
@@ -2030,7 +2031,7 @@
     "preco": "R$ 105.000",
     "velocidade": 185,
     "tipo": "carro",
-    "image": "https://hyundai.com.br/images/hb20x/hb20x-azul.png"
+    "image": "https://www.webmotors.com.br/tabela-fipe/_next/image?url=https%3A%2F%2Fwww.webmotors.com.br%2Fimagens%2Fprod%2F348163%2FHYUNDAI_HB20X_1.6_16V_FLEX_DIAMOND_PLUS_AUTOMATICO_34816315353903879.webp&w=1265&q=75"
   },
   {
     "id": 131,
@@ -2046,7 +2047,7 @@
     "preco": "R$ 75.000",
     "velocidade": 205,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/i30/2016/i30-white.png"
+    "image": "https://www.webmotors.com.br/imagens/prod/347397/HYUNDAI_I30_1.8_MPI_16V_GASOLINA_SERIE_LIMITADA_4P_AUTOMATICO_34739715075472763.webp"
   },
   {
     "id": 132,
@@ -2062,7 +2063,7 @@
     "preco": "R$ 210.000",
     "velocidade": 165,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/ioniq-electric/2023/ioniq-electric-white.png"
+    "image": "https://www.webmotors.com.br/imagens/prod/379348/HYUNDAI_IONIQ_1.6_GDI_HEV_DCT_37934815383167930.webp"
   },
   {
     "id": 133,
@@ -2074,11 +2075,11 @@
     "combustivel": "Gasolina",
     "transmissao": "Automático 8 marchas",
     "torque": 39.0,
-    "categoria": "SUV esportivo",
+    "categoria": "SUV",
     "preco": "R$ 230.000",
     "velocidade": 240,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/kona-n/2023/kona-n-blue.png"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1F9tNhYaQfnxg1zq1lVRzFG76aOVzaFukcQ&s"
   },
   {
     "id": 134,
@@ -2094,7 +2095,7 @@
     "preco": "R$ 105.000",
     "velocidade": 190,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/avante/2022/avante-white.png"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQhtsRoBRgcwUMA-Gl4HFv3nn4VuYVTwZz4w&s"
   },
   {
     "id": 135,
@@ -2110,7 +2111,7 @@
     "preco": "R$ 55.000",
     "velocidade": 170,
     "tipo": "carro",
-    "image": "https://cars.usnews.com/static/images/Auto/izmo/i111447438/2007_hyundai_terracan_angularfront.jpg"
+    "image": "https://i.ebayimg.com/images/g/otgAAOSwVR1mVeWc/s-l1200.png"
   },
   {
     "id": 136,
@@ -2126,7 +2127,7 @@
     "preco": "R$ 280.000",
     "velocidade": 250,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/equus/2016/equus-black.png"
+    "image": "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/3d5d6fe5-ab2a-4313-94d3-d68f451d9918/d373c32f-aa01-4b39-991b-ebf82e87a853.png"
   },
   {
     "id": 137,
@@ -2142,7 +2143,7 @@
     "preco": "R$ 32.000",
     "velocidade": 175,
     "tipo": "carro",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Hyundai_Matrix_%28FC%29_–_Frontansicht%2C_2._Juli_2013%2C_Düsseldorf.jpg/640px-Hyundai_Matrix_%28FC%29_–_Frontansicht%2C_2._Juli_2013%2C_Düsseldorf.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxULaoQC73xWm_Dd7iJTzv9tGf7w9JrGxh5g&s"
   },
   {
     "id": 138,
@@ -2158,7 +2159,7 @@
     "preco": "R$ 28.000",
     "velocidade": 175,
     "tipo": "carro",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hyundai_Trajet_front_20080412.jpg/640px-Hyundai_Trajet_front_20080412.jpg"
+    "image": "https://4roti.md/upload/cars_pages/qlOZe7nd.png"
   },
   {
     "id": 139,
@@ -2174,7 +2175,7 @@
     "preco": "R$ 25.000",
     "velocidade": 170,
     "tipo": "carro",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2008_Hyundai_Getz_%28TB_MY07%29_SX_3-door_hatchback_%282015-07-03%29_01.jpg/640px-2008_Hyundai_Getz_%28TB_MY07%29_SX_3-door_hatchback_%282015-07-03%29_01.jpg"
+    "image": "https://carsguide-res.cloudinary.com/image/upload/e_trim:10,f_auto/c_scale,t_cg_base,w_678/v1/editorial/vhs/Hyundai-Getz.png"
   },
   {
     "id": 140,
@@ -2190,7 +2191,7 @@
     "preco": "R$ 78.000",
     "velocidade": 185,
     "tipo": "carro",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2013_Hyundai_ix35_%28LM_MY13%29_Elite_wagon_%282017-11-29%29_01.jpg/640px-2013_Hyundai_ix35_%28LM_MY13%29_Elite_wagon_%282017-11-29%29_01.jpg"
+    "image": "https://img2.icarros.com/dbimg/imgmodelo/0/1082_7.jpg"
   },
   {
     "id": 141,
@@ -2222,7 +2223,7 @@
     "preco": "R$ 620.000",
     "velocidade": 125,
     "tipo": "carro",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hyundai_Aero_City_540.jpg/640px-Hyundai_Aero_City_540.jpg"
+    "image": "https://trucknbus.hyundai.com/global/en/upload/metadata/MT00000057/gnb-super-aero-city-product.png"
   },
   {
     "id": 143,
@@ -2238,7 +2239,7 @@
     "preco": "R$ 230.000",
     "velocidade": 130,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/mighty/2022/mighty-blue.png"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzMErAkHwQbLSp_pMZzEr-eZxtQNa6NLAARw&s"
   },
   {
     "id": 144,
@@ -2250,11 +2251,11 @@
     "combustivel": "Diesel",
     "transmissao": "Automático 6 marchas",
     "torque": 210.0,
-    "categoria": "Ônibus rodoviário",
+    "categoria": "Ônibus",
     "preco": "R$ 900.000",
     "velocidade": 120,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/universe/2023/universe-white.png"
+    "image": "https://trucknbus.hyundai.com/upload/metadata/MT00000059/gnb-universe-product.png"
   },
   {
     "id": 145,
@@ -2270,7 +2271,7 @@
     "preco": "R$ 48.000",
     "velocidade": 150,
     "tipo": "carro",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hyundai_Santro_2018_front_view_%28India%29.png/640px-Hyundai_Santro_2018_front_view_%28India%29.png"
+    "image": "https://media.cars24.com/hello-ar/dev/transformed/uploads/no_bg/11f39168-d340-11f0-bd50-02ede2007fbe/64aac0e4-c163-48ed-815f-9824fe38576c/cafcdacb-92e0-4858-8710-83b021510d60/5c0a96c6-f095-4e52-8440-7cda5e4ab862/slot/camera-SRP.png?w=200&format=auto&dpr=2&pad=48,0,0,0&trim-color=auto"
   },
   {
     "id": 146,
@@ -2286,7 +2287,7 @@
     "preco": "R$ 125.000",
     "velocidade": 200,
     "tipo": "carro",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2023_Hyundai_Verna_%28India%29_front_view.png/640px-2023_Hyundai_Verna_%28India%29_front_view.png"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJSVR0ce9LGwF_Rxw8EXFZJHBwWZQEI2cRjw&s"
   },
   {
     "id": 147,
@@ -2298,11 +2299,11 @@
     "combustivel": "Gasolina",
     "transmissao": "Automático 6 marchas",
     "torque": 19.5,
-    "categoria": "SUV 7 lugares",
+    "categoria": "SUV",
     "preco": "R$ 165.000",
     "velocidade": 190,
     "tipo": "carro",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hyundai_Alcazar_2021.jpg/640px-Hyundai_Alcazar_2021.jpg"
+    "image": "https://ackodrive-assets.ackodrive.com/media/test_eBUHmSz.png"
   },
   {
     "id": 148,
@@ -2318,7 +2319,7 @@
     "preco": "R$ 95.000",
     "velocidade": 185,
     "tipo": "carro",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2018_Hyundai_Tucson_premium%2C_front_5.19.18.jpg/640px-2018_Hyundai_Tucson_premium%2C_front_5.19.18.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlolU_6Av6PGKVvh_WTQoZFiW_hqta0e4YDA&s"
   },
   {
     "id": 149,
@@ -2334,7 +2335,7 @@
     "preco": "R$ 450.000",
     "velocidade": 180,
     "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/nexo/2024/nexo-silver.png"
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_563,q_auto,f_auto/prod/cars/cr/model-years/17095-2024-hyundai-nexo"
   },
   {
     "id": 150,
@@ -2346,28 +2347,14 @@
     "combustivel": "Gasolina",
     "transmissao": "Automático 4 marchas",
     "torque": 9.7,
-    "categoria": "Mini SUV",
+    "categoria": "SUV",
     "preco": "R$ 72.000",
     "velocidade": 150,
     "tipo": "carro",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hyundai_Casper%2C_3.15.22.jpg/640px-Hyundai_Casper%2C_3.15.22.jpg"
+    "image": "https://car-data.carwow.co.uk/image?filter%5Bangle%5D=28&filter%5Bbrand_slug%5D=nissan&filter%5Bmodel_review_slug%5D=qashqai-2021&filter%5Bpartner%5D=autoexpress"
   },
-  {
-    "id": 151,
-    "modelo": "Hyundai Palisade Hybrid",
-    "marca": "Hyundai",
-    "ano": 2024,
-    "motor": 2.5,
-    "potencia_hp": 240,
-    "combustivel": "Híbrido",
-    "transmissao": "Automático 8 marchas",
-    "torque": 37.0,
-    "categoria": "SUV grande",
-    "preco": "R$ 480.000",
-    "velocidade": 200,
-    "tipo": "carro",
-    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/vehicles/palisade/2024/palisade-grey.png"
-  },
+
+
   {
     "id": 151,
     "modelo": "Factor 150 ABS",
@@ -2379,7 +2366,7 @@
     "transmissao": "Manual 5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Street",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/factor-150-vermelha.png",
+    "image": "https://production.autoforce.com/uploads/version/profile_image/10018/comprar-black-eclipse_b4ec744711.png",
     "preco": "R$ 15.290,00",
     "tipo": "moto"
   },
@@ -2394,7 +2381,7 @@
     "transmissao": "Manual 5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Street",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/fazer-250-azul.png",
+    "image": "https://production.autoforce.com/uploads/version/profile_image/10015/model_middle_webp_comprar-matt-grey_28ce1530d1.png.webp",
     "preco": "R$ 23.990,00",
     "tipo": "moto"
   },
@@ -2409,7 +2396,7 @@
     "transmissao": "Manual 6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Naked",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/mt03-cinza.png",
+    "image": "https://production.autoforce.com/uploads/version/profile_image/9543/model_middle_webp_comprar-storm-fluo_8db0ed1c9e.png.webp",
     "preco": "R$ 31.790,00",
     "tipo": "moto"
   },
@@ -2424,7 +2411,7 @@
     "transmissao": "Manual 6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Naked",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/mt07-preta.png",
+    "image": "https://production.autoforce.com/uploads/version/profile_image/9553/model_middle_webp_comprar-metal-black_e168f83774.png.webp",
     "preco": "R$ 48.990,00",
     "tipo": "moto"
   },
@@ -2439,7 +2426,7 @@
     "transmissao": "Manual 5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Trail",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/lander-250-azul.png",
+    "image": "https://motociclismoonline.com.br/wp-content/uploads/2024/02/Yamaha_Lander_2024-2.png",
     "preco": "R$ 26.190,00",
     "tipo": "moto"
   },
@@ -2454,7 +2441,7 @@
     "transmissao": "Manual 5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Trail",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/lander-250-rally.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV6NZ9kestXqNJihSCflSik6Dg9DvNUbthJg&s",
     "preco": "R$ 27.390,00",
     "tipo": "moto"
   },
@@ -2469,7 +2456,7 @@
     "transmissao": "Manual 5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Adventure",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/tenere-250-branca.png",
+    "image": "https://production.autoforce.com/uploads/version/profile_image/1924/model_middle_webp_comprar-250_0f3fd34a2b.png.webp",
     "preco": "R$ 28.990,00",
     "tipo": "moto"
   },
@@ -2484,7 +2471,7 @@
     "transmissao": "Manual 5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Trail",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/crosser-150-preta.png",
+    "image": "https://storage.googleapis.com/dealersites-content/dealersites/vehicles/versions/yamaha/foto730_43130.webp",
     "preco": "R$ 17.890,00",
     "tipo": "moto"
   },
@@ -2499,7 +2486,7 @@
     "transmissao": "CVT",
     "combustivel": "Gasolina",
     "categoria": "Scooter",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/neo-125-branca.png",
+    "image": "https://production.autoforce.com/uploads/version/profile_image/9549/comprar-matt-grey_765d756605.png",
     "preco": "R$ 12.990,00",
     "tipo": "moto"
   },
@@ -2514,7 +2501,7 @@
     "transmissao": "CVT",
     "combustivel": "Gasolina",
     "categoria": "Scooter",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/fluo-125-azul.png",
+    "image": "https://production.autoforce.com/uploads/version/profile_image/10959/comprar-brown-espresso_bf19494409.png",
     "preco": "R$ 14.990,00",
     "tipo": "moto"
   },
@@ -2529,7 +2516,7 @@
     "transmissao": "CVT",
     "combustivel": "Gasolina",
     "categoria": "Scooter",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/nmax-160-cinza.png",
+    "image": "https://motociclismoonline.com.br/wp-content/uploads/2024/01/Yamaha-NMAX-160-20245.png",
     "preco": "R$ 18.990,00",
     "tipo": "moto"
   },
@@ -2544,7 +2531,7 @@
     "transmissao": "Manual 6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Sport Touring",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/tracer-900-gt.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWEsdMYgHJgr98l8dtA0CupjiwS01viOrUPA&s",
     "preco": "R$ 69.990,00",
     "tipo": "moto"
   },
@@ -2559,7 +2546,7 @@
     "transmissao": "Manual 6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Sport",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/r3-azul.png",
+    "image": "https://www.yamaha-racing.com.br/wp-content/uploads/2020/03/image035.png",
     "preco": "R$ 34.590,00",
     "tipo": "moto"
   },
@@ -2574,7 +2561,7 @@
     "transmissao": "Manual 6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Super Sport",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/r1-azul.png",
+    "image": "https://img.webike-cdn.net/@news/wp-content/uploads/2023/11/1121_yzf-r1_20242024_YZF1000_SMX_JPN_2_resulte.webp",
     "preco": "R$ 119.990,00",
     "tipo": "moto"
   },
@@ -2589,7 +2576,7 @@
     "transmissao": "Manual 5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Trail",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/xtz125-branca.png",
+    "image": "https://cdn.riderly.com/storage/media/img/bikes/yamaha__xtz%20125.png",
     "preco": "R$ 14.990,00",
     "tipo": "moto"
   },
@@ -2604,7 +2591,7 @@
     "transmissao": "Manual 4 marchas",
     "combustivel": "Gasolina",
     "categoria": "Cub",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/crypton-vermelha.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP23jZygf-UdxAVIZbKuvxPG4pr9s01a1LrA&s",
     "preco": "R$ 10.990,00",
     "tipo": "moto"
   },
@@ -2619,7 +2606,7 @@
     "transmissao": "CVT",
     "combustivel": "Gasolina",
     "categoria": "Scooter",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/xmax-250-preta.png",
+    "image": "https://image1.mobiauto.com.br/images/api/images/v1.0/290046118/transform/fl_progressive,f_webp,q_85,w_959",
     "preco": "R$ 26.990,00",
     "tipo": "moto"
   },
@@ -2634,7 +2621,7 @@
     "transmissao": "Manual 6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Adventure",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/super-tenere-azul.png",
+    "image": "https://www.grupocimentec.com.br/_next/image?url=%2Fimg%2Fbalau%2Fmoto02.png&w=828&q=75",
     "preco": "R$ 89.990,00",
     "tipo": "moto"
   },
@@ -2649,7 +2636,7 @@
     "transmissao": "Manual 6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Off-road",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/ttr-230.png",
+    "image": "https://cloudfront.alpes.one/public/667/980/705/6679807055cb6621945576.png",
     "preco": "R$ 21.990,00",
     "tipo": "moto"
   },
@@ -2664,7 +2651,7 @@
     "transmissao": "Manual 6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Off-road",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/wr250f.png",
+    "image": "https://cloudfront.alpes.one/public/67a/21d/7ea/67a21d7ea89f5431286547.webp",
     "preco": "R$ 62.990,00",
     "tipo": "moto"
   },
@@ -2679,7 +2666,7 @@
     "transmissao": "Manual 5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Off-road",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/yz250x.png",
+    "image": "https://bike.net/res/media/img/hx400/ref/f23/120387@2x.png",
     "preco": "R$ 59.990,00",
     "tipo": "moto"
   },
@@ -2694,7 +2681,7 @@
     "transmissao": "Manual 6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Off-road",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/yz125.png",
+    "image": "https://cdn.mxb-mods.com/wp-content/uploads/2024/07/3DVSS-233155-LD.png",
     "preco": "R$ 43.990,00",
     "tipo": "moto"
   },
@@ -2709,7 +2696,7 @@
     "transmissao": "Manual 5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Trail",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/xt660r-preta.png",
+    "image": "https://mototripbg.com/wp-content/uploads/2020/03/Yamaha-XT660R-500x396.png",
     "preco": "R$ 39.990,00",
     "tipo": "moto"
   },
@@ -2724,7 +2711,7 @@
     "transmissao": "Manual 5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Custom",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/dragstar-650.png",
+    "image": "https://customermotos.com.br/wp-content/uploads/2018/08/customer-motos-3.png",
     "preco": "R$ 36.990,00",
     "tipo": "moto"
   },
@@ -2739,7 +2726,7 @@
     "transmissao": "Manual 5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Custom",
-    "image": "https://yamaha-motor.com.br/wp-content/uploads/2023/11/bolt-rspec.png",
+    "image": "https://bike.net/res/media/img/hx400/ref/f72/106966@2x.png",
     "preco": "R$ 52.990,00",
     "tipo": "moto"
   },
@@ -2754,7 +2741,7 @@
     "transmissao": "5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Street",
-    "image": "https://yamaha-fz15-image.com/fz15.webp",
+    "image": "https://cloudfront.alpes.one/public/684/994/bab/684994bab64a8968536837.webp",
     "preco": "R$ 16.990,00",
     "tipo": "moto"
   },
@@ -2769,7 +2756,7 @@
     "transmissao": "5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Street",
-    "image": "https://yamaha-fzs250-image.com/fzs250.webp",
+    "image": "https://cloudfront.alpes.one/public/670/97f/11e/67097f11e1fce701664021.webp",
     "preco": "R$ 22.990,00",
     "tipo": "moto"
   },
@@ -2784,7 +2771,7 @@
     "transmissao": "6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Esportiva",
-    "image": "https://yamaha-r15-image.com/r15.webp",
+    "image": "https://production.autoforce.com/uploads/version/profile_image/9773/comprar-matt-silver_e2f1a56947.png",
     "preco": "R$ 21.990,00",
     "tipo": "moto"
   },
@@ -2799,7 +2786,7 @@
     "transmissao": "CVT",
     "combustivel": "Gasolina",
     "categoria": "Scooter",
-    "image": "https://yamaha-aerox-image.com/aerox.webp",
+    "image": "https://yamahaumb.com/wp-content/uploads/2024/11/aerox_neon.png",
     "preco": "R$ 18.990,00",
     "tipo": "moto"
   },
@@ -2814,7 +2801,7 @@
     "transmissao": "CVT",
     "combustivel": "Gasolina",
     "categoria": "Scooter",
-    "image": "https://yamaha-rayzr-image.com/rayzr.webp",
+    "image": "https://shop.yamaha-motor-india.com/cdn/shop/files/rayzr-green_1200x.webp?v=1755149351",
     "preco": "R$ 11.490,00",
     "tipo": "moto"
   },
@@ -2829,7 +2816,7 @@
     "transmissao": "CVT",
     "combustivel": "Gasolina",
     "categoria": "Scooter",
-    "image": "https://yamaha-delight125-image.com/delight.webp",
+    "image": "https://yamaha-nikolakopoulos.gr/wp-content/uploads/2023/04/delight-transparent.png",
     "preco": "R$ 13.490,00",
     "tipo": "moto"
   },
@@ -2844,7 +2831,7 @@
     "transmissao": "6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Off-road",
-    "image": "https://yamaha-wr155r-image.com/wr155r.webp",
+    "image": "https://fejosekawan.com/wp-content/uploads/2021/11/WR155R-Black.png",
     "preco": "R$ 24.390,00",
     "tipo": "moto"
   },
@@ -2859,7 +2846,7 @@
     "transmissao": "5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Trail",
-    "image": "https://yamaha-xtz250-image.com/xtz250.webp",
+    "image": "https://motociclismoonline.com.br/wp-content/uploads/2022/04/Yamaha-Lander.png",
     "preco": "R$ 26.990,00",
     "tipo": "moto"
   },
@@ -2874,7 +2861,7 @@
     "transmissao": "5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Street",
-    "image": "https://yamaha-ybr150-image.com/ybr150.webp",
+    "image": "https://www.tabelafipebrasil.com/site/images/FIPE/png/827099-6.png",
     "preco": "R$ 15.790,00",
     "tipo": "moto"
   },
@@ -2889,7 +2876,7 @@
     "transmissao": "6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Classic",
-    "image": "https://yamaha-xs155r-image.com/xs155r.webp",
+    "image": "https://yamaha-motor.com.vn/wp/wp-content/uploads/2024/01/XSR-155-Black-Metallic-004-768x645.png",
     "preco": "R$ 18.990,00",
     "tipo": "moto"
   },
@@ -2904,7 +2891,7 @@
     "transmissao": "5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Classic",
-    "image": "https://yamaha-sr400-image.com/sr400.webp",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfXDaJH0m-_pBkLExmMezwmc0oiJ7AFmfLUQ&s",
     "preco": "R$ 29.990,00",
     "tipo": "moto"
   },
@@ -2919,7 +2906,7 @@
     "transmissao": "6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Neo-Retro",
-    "image": "https://yamaha-xsr155-image.com/xsr155.webp",
+    "image": "https://storagetym.blob.core.windows.net/www2021/images/product-2021/commuter/model-year-2023/xsr155-2023/lineup-360-matt-metal/12.png?sfvrsn=1a385196_2",
     "preco": "R$ 20.490,00",
     "tipo": "moto"
   },
@@ -2934,7 +2921,7 @@
     "transmissao": "6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Neo-Retro",
-    "image": "https://yamaha-xsr900-image.com/xsr900.webp",
+    "image": "https://www.sparkexhaust.com/images/prodotti-new/678524e367dd3.png",
     "preco": "R$ 64.990,00",
     "tipo": "moto"
   },
@@ -2949,7 +2936,7 @@
     "transmissao": "CVT",
     "combustivel": "Gasolina",
     "categoria": "Maxi Scooter",
-    "image": "https://yamaha-tmax560-image.com/tmax.webp",
+    "image": "https://yamaha-nikolakopoulos.gr/wp-content/uploads/2024/01/tmax-tech-max-2024-transparent.png",
     "preco": "R$ 72.990,00",
     "tipo": "moto"
   },
@@ -2964,7 +2951,7 @@
     "transmissao": "CVT",
     "combustivel": "Gasolina",
     "categoria": "Scooter",
-    "image": "https://yamaha-jog125-image.com/jog125.webp",
+    "image": "https://yongshin.tw/wp-content/uploads/2024/08/JOG-4-e1723785303607.png",
     "preco": "R$ 9.990,00",
     "tipo": "moto"
   },
@@ -2979,7 +2966,7 @@
     "transmissao": "6 marchas",
     "combustivel": "Gasolina",
     "categoria": "3 Rodas",
-    "image": "https://yamaha-niken-image.com/niken.webp",
+    "image": "https://oldskulltuning.com/wp-content/uploads/2023/01/yamaha-niken-900-ecu-tuning.png",
     "preco": "R$ 89.990,00",
     "tipo": "moto"
   },
@@ -2994,7 +2981,7 @@
     "transmissao": "6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Esportiva",
-    "image": "https://yamaha-r125-image.com/r125.webp",
+    "image": "https://www.yamaha-motor-india.com/theme/v4/images/webp_images/r_series_all/r15m/color/carbon.webp",
     "preco": "R$ 19.990,00",
     "tipo": "moto"
   },
@@ -3009,24 +2996,25 @@
     "transmissao": "6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Adventure",
-    "image": "https://yamaha-xt1200z-image.com/xt1200z.webp",
+    "image": "https://yamaha-mundoyamaha.com/wp-content/uploads/2023/03/superTenere1200ZE_motos_header.png",
     "preco": "R$ 82.990,00",
     "tipo": "moto"
   },
   {
     "id": 194,
-    "modelo": "Yamaha SuperJet 1050",
+    "modelo": "MT-07",
     "marca": "Yamaha",
-    "ano": 2024,
-    "cor": "Branca",
-    "cilindrada": 1049,
-    "freio": "N/A",
-    "transmissao": "Jet Pump",
+    "ano": 2020,
+    "cor": "Cinza",
+    "cilindrada": 689,
+    "freio": "Disco duplo dianteiro / Disco traseiro",
+    "transmissao": "Manual",
     "combustivel": "Gasolina",
-    "categoria": "Jet Ski",
-    "image": "https://yamaha-superjet-image.com/superjet.webp",
-    "preco": "R$ 59.990,00",
+    "categoria": "Naked",
+    "image": "https://nossamotoyamaha.com.br/storage/app/uploads/public/5d4/337/2b6/5d43372b62829891289478.png",
+    "preco": "R$ 36.990,00",
     "tipo": "moto"
+
   },
   {
     "id": 195,
@@ -3039,7 +3027,7 @@
     "transmissao": "6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Sport Touring",
-    "image": "https://yamaha-tracer700-image.com/tracer700.webp",
+    "image": "https://grmoto.co.uk/wp-content/uploads/2024/09/10-cg-YAMAHA-TRACER-700-2014-2024-C-SERPENT-S249-SKUH506D.webp",
     "preco": "R$ 55.990,00",
     "tipo": "moto"
   },
@@ -3054,7 +3042,7 @@
     "transmissao": "CVT",
     "combustivel": "Gasolina",
     "categoria": "Scooter",
-    "image": "https://yamaha-bws125-image.com/bws125.webp",
+    "image": "https://images-motomais.motosport.com.pt//2020/11/yamaha-bws-125.png",
     "preco": "R$ 11.490,00",
     "tipo": "moto"
   },
@@ -3069,7 +3057,7 @@
     "transmissao": "6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Esportiva",
-    "image": "https://yamaha-r6-image.com/r6.webp",
+    "image": "https://d1sfhav1wboke3.azureedge.net/ImageServer/Apim2Media/Images/20164/62bcf92e-e178-4d91-aad7-8c65d368a940.png",
     "preco": "R$ 79.990,00",
     "tipo": "moto"
   },
@@ -3084,7 +3072,7 @@
     "transmissao": "5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Custom",
-    "image": "https://yamaha-xv950r-image.com/xv950r.webp",
+    "image": "https://d1sfhav1wboke3.azureedge.net/ImageServer/Apim2Media/Images/20777/e9886adc6c854dabba9ec8bb565466c6.png",
     "preco": "R$ 54.990,00",
     "tipo": "moto"
   },
@@ -3099,7 +3087,7 @@
     "transmissao": "5 marchas",
     "combustivel": "Gasolina",
     "categoria": "Trail",
-    "image": "https://yamaha-xt660r-image.com/xt660r.webp",
+    "image": "https://mototripbg.com/wp-content/uploads/2020/03/Yamaha-XT660R-500x396.png",
     "preco": "R$ 38.990,00",
     "tipo": "moto"
   },
@@ -3114,7 +3102,7 @@
     "transmissao": "6 marchas",
     "combustivel": "Gasolina",
     "categoria": "Esportiva",
-    "image": "https://yamaha-r1m-image.com/r1m.webp",
+    "image": "https://www.motoxracing.net//images/2024/02/01/2024_yzf-r1m_ray_z9a_1058.png",
     "preco": "R$ 139.990,00",
     "tipo": "moto"
   }
